@@ -10,8 +10,8 @@ Churn_predictor/
 ├── data (raw and processed data files)
 ├── db (database‑related files or scripts)
 ├── ml (machine learning / model training scripts / notebooks)
-├── environment.yml → conda environment specification
-└── README.md → this file
+├── environment.yml (conda environment specification)
+└── README.md
 ```
 
 ## Setup & Installation  
