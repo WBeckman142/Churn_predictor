@@ -1,0 +1,9 @@
+name: churn-pipeline
+dependencies:
+  - python=3.10
+  - pandas
+  - sqlalchemy
+  - scikit-learn
+  - fastapi
+  - uvicorn
+  - pip
