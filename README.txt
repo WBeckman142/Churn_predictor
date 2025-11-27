@@ -1,4 +1,4 @@
-# Churn_predictor
+# Churn_predictor 
 
 ## Project Overview  
 The Churn_predictor project aims to build a customer churn‑prediction pipeline: using historical customer/data records, the project applies data processing, exploratory analysis, and machine learning to predict which customers are likely to leave (churn). This can help businesses anticipate customer attrition and take action to retain valuable customers.
